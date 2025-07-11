@@ -19,3 +19,6 @@ This code is released under a GNU General Public License version 3 (GPL-3.0-only
 
 ## Funding
 The source code described here was funded by the Predictive Phenomics Science & Technology Initiative, conducted under the Laboratory Directed Research and Development Program, at Pacific Northwest National Laboratory (PNNL). PNNL is a multiprogram national laboratory operated by Battelle for the U.S. Department of Energy Office of Science under Contract No. DE-AC05-76RL0183.
+
+## Citation Guidance
+Feng, S. (2025). Predictive Phenomics Host-Pathogen Limited Proteolysis Proteomics Analysis Workflow (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15857180
